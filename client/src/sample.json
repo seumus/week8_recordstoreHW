@@ -1,0 +1,11 @@
+module.exports = [
+  {"artist": "S Club 7",
+   "title": "S Club Party",
+   "price": 9},
+  {"artist": "Steps",
+   "title": "Step Up",
+   "price": 8},
+   {"artist": "Korn",
+    "title": "Korny",
+    "price": 10},     
+]
